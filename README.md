@@ -1,6 +1,6 @@
 # LSE_Thoughtworks_Project
 
-Our team (team of 4) is required to develop and present a data-informed plan to increase the uptake of cycling in London and to help the client better understand the factors that contribute to the uptake of cycling in the city.
+Our team (a team of 4 with members with Hong Kong, Singapore, Dubai and UK) was required to develop and present a data-informed plan to increase the uptake of cycling in London and to help the client better understand the factors that contribute to the uptake of cycling in the city.
 
 -- Scenario
 
