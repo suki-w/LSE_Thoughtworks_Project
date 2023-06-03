@@ -30,6 +30,6 @@ When approaching Thoughtworks, the Mayor of London proposed some initial questio
 
 • Are there any underrepresented groups that can be engaged with to try to increase the uptake of cycling as a mode of transport?
 
--- Notes from Thoughtworks
+-- Thoughtworks Hypothesis
 
 Thoughtworks has selected these initial datasets to see how different cities compare in their uptake of cycling, with the hypothesis that there is a correlation between the availability of cycling infrastructure and the prevalence of cycling. Is this hypothesis correct? What might be other hypotheses for factors that affect the uptake of cycling – and can these be evidenced using additional data?
