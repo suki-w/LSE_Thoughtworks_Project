@@ -1,5 +1,10 @@
 # LSE_Thoughtworks_Project
 
+-- Preview
+A final project of the LSE Data Analytics Career Accelerator program, also an Employer's Project to be presented to and rated by the data analyst representatives of Thoughtworks UK, leveraging real-life data retreived from the TFL and other relevent open resources online. Conclusions and recommendations were based on data analysis conducted on Python, whereas data visualizations were developed on both Tableau and Python.
+
+-- Project Background
+
 Our team (a team of 4 with members with Hong Kong, Singapore, Dubai and UK) was required to develop and present a data-informed plan to increase the uptake of cycling in London and to help the client better understand the factors that contribute to the uptake of cycling in the city.
 
 -- Scenario
